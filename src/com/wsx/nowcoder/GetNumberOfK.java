@@ -6,7 +6,6 @@ public class GetNumberOfK {
         final int i = Solution806.GetNumberOfK(a, 6);
         System.out.println(i);
     }
-
 }
 class Solution806 {
     public static int GetNumberOfK(int [] array , int k) {
